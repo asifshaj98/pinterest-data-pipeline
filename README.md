@@ -31,8 +31,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 ### Built With
 
 * [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)

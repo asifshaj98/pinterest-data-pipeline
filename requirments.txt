@@ -1,0 +1,6 @@
+boto3
+kafka-python
+pyspark
+multiprocessing
+pyyaml
+sqlalchemy
